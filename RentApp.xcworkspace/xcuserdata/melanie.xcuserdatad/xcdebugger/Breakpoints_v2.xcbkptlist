@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4D99E46F-43B8-4098-8091-34466E29DF00"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D01CAE63-D3E3-443A-8830-30ABB27212FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RentApp/Views/Registration/RegistrationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init(output:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D01CAE63-D3E3-443A-8830-30ABB27212FB - 9fdcecd217d0e8c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RentApp.RegistrationViewController.presenter.getter : Swift.Optional&lt;RentApp.RegistrationPresenterProtocol&gt;"
+                  moduleName = "RentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/melanie/Downloads/RentApp-login_registration/RentApp/Views/Registration/RegistrationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "131">
+               </Location>
+               <Location
+                  uuid = "D01CAE63-D3E3-443A-8830-30ABB27212FB - ec796c5f0997e33c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RentApp.RegistrationViewController.presenter.setter : Swift.Optional&lt;RentApp.RegistrationPresenterProtocol&gt;"
+                  moduleName = "RentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/melanie/Downloads/RentApp-login_registration/RentApp/Views/Registration/RegistrationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  uuid = "D01CAE63-D3E3-443A-8830-30ABB27212FB - 72ee383e334bbdcf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RentApp.RegistrationViewController.presenter.modify : Swift.Optional&lt;RentApp.RegistrationPresenterProtocol&gt;"
+                  moduleName = "RentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/melanie/Downloads/RentApp-login_registration/RentApp/Views/Registration/RegistrationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "D01CAE63-D3E3-443A-8830-30ABB27212FB - 843d2d993ed2193d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RentApp.RegistrationViewController.presenter.modify : Swift.Optional&lt;RentApp.RegistrationPresenterProtocol&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/melanie/Downloads/RentApp-login_registration/RentApp/Views/Registration/RegistrationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "D01CAE63-D3E3-443A-8830-30ABB27212FB - 65c88831798feb91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RentApp.RegistrationViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RentApp.RegistrationViewController"
+                  moduleName = "RentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/melanie/Downloads/RentApp-login_registration/RentApp/Views/Registration/RegistrationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "428">
+               </Location>
+               <Location
+                  uuid = "D01CAE63-D3E3-443A-8830-30ABB27212FB - e36a4b15a137eb68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RentApp.RegistrationViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RentApp.RegistrationViewController&gt;"
+                  moduleName = "RentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/melanie/Downloads/RentApp-login_registration/RentApp/Views/Registration/RegistrationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "372">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
